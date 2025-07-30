@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "selmablockmod",
+  "version": "1.0.0",
+  "name": "Corrupted Selma Block Mod",
+  "description": "A singular purple skulk-purpur block that slowly corrupts the world and mobs.",
+  "authors": ["Sylvia-friendly & Copilot"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.selma.SelmaBlockMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*"
+  }
+}
