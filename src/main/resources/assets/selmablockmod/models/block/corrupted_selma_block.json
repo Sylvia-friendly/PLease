@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "selmablockmod:block/corrupted_selma_block"
+  }
+}
